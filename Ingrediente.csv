@@ -1,5 +1,5 @@
 ,Id,Nombre,dbpedia_Uri,dbpedia_Type
-0,66067,jamón serrano,http://dbpedia.org/resource/Jamón,Wikidata:Q2095,DBpedia:Food
+0,66067,jamón serrano,http://dbpedia.org/resource/Jamón,"Wikidata:Q2095,DBpedia:Food"
 1,58973,aguacate,http://dbpedia.org/resource/Avocado,"Wikidata:Q756,Wikidata:Q19088,DBpedia:Species,DBpedia:Eukaryote,DBpedia:Plant"
 2,57328,Empanadas,http://dbpedia.org/resource/Empanada,"Wikidata:Q2095,DBpedia:Food"
 3,57328,chorizo,http://dbpedia.org/resource/Chorizo,"Wikidata:Q2095,DBpedia:Food"
