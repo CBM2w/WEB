@@ -1,364 +1,390 @@
-,index,name,price,reference_price,reference_unit,dbpedia_Uri
-373,2784,pepino,4.63,4.56,l,http://dbpedia.org/resource/Solanum_muricatum
-447,1718,pepino,1.39,1.39,l,http://dbpedia.org/resource/Solanum_muricatum
-452,1838,pepino,2.99,4.6,l,http://dbpedia.org/resource/Solanum_muricatum
-1604,4099,pepino,2.89,57.8,l,http://dbpedia.org/resource/Solanum_muricatum
-510,2850,calamares,2.59,35.97,kg,http://dbpedia.org/resource/Squid_as_food
-513,4539,calamares,2.25,12.71,kg,http://dbpedia.org/resource/Squid_as_food
-516,4564,calamares,2.59,35.97,kg,http://dbpedia.org/resource/Squid_as_food
-1550,2850,calamares,2.59,35.97,kg,http://dbpedia.org/resource/Squid_as_food
-1583,4539,calamares,2.25,12.71,kg,http://dbpedia.org/resource/Squid_as_food
-1332,994,chorizo,3.55,5.92,kg,http://dbpedia.org/resource/Chorizo
-1334,999,chorizo,1.05,2.53,kg,http://dbpedia.org/resource/Chorizo
-1336,1029,chorizo,1.0,15.38,kg,http://dbpedia.org/resource/Chorizo
-1337,1030,chorizo,1.0,15.38,kg,http://dbpedia.org/resource/Chorizo
-1338,1035,chorizo,3.58,17.89,kg,http://dbpedia.org/resource/Chorizo
-1341,1037,chorizo,6.35,14.94,kg,http://dbpedia.org/resource/Chorizo
-1342,1041,chorizo,6.29,14.8,kg,http://dbpedia.org/resource/Chorizo
-1343,1046,chorizo,1.99,7.37,kg,http://dbpedia.org/resource/Chorizo
-1345,1049,chorizo,1.55,7.75,kg,http://dbpedia.org/resource/Chorizo
-1346,1050,chorizo,2.09,10.45,kg,http://dbpedia.org/resource/Chorizo
-1349,1056,chorizo,2.75,18.33,kg,http://dbpedia.org/resource/Chorizo
-1351,1067,chorizo,6.35,14.94,kg,http://dbpedia.org/resource/Chorizo
-1352,1071,chorizo,6.29,14.8,kg,http://dbpedia.org/resource/Chorizo
-1353,1072,chorizo,2.59,25.9,kg,http://dbpedia.org/resource/Chorizo
-1354,1076,chorizo,1.99,7.37,kg,http://dbpedia.org/resource/Chorizo
-1356,1081,chorizo,4.99,13.13,kg,http://dbpedia.org/resource/Chorizo
-1357,1091,chorizo,1.85,18.5,kg,http://dbpedia.org/resource/Chorizo
-1359,1092,chorizo,3.95,12.34,kg,http://dbpedia.org/resource/Chorizo
-1361,1093,chorizo,1.99,16.58,kg,http://dbpedia.org/resource/Chorizo
-1362,1123,chorizo,3.95,12.34,kg,http://dbpedia.org/resource/Chorizo
-1364,1124,chorizo,1.85,18.5,kg,http://dbpedia.org/resource/Chorizo
-1367,1510,chorizo,2.29,9.16,kg,http://dbpedia.org/resource/Chorizo
-1368,2553,chorizo,3.69,14.76,kg,http://dbpedia.org/resource/Chorizo
-1370,2555,chorizo,2.39,26.56,kg,http://dbpedia.org/resource/Chorizo
-1371,3000,chorizo,4.55,11.97,kg,http://dbpedia.org/resource/Chorizo
-1374,3001,chorizo,1.97,7.16,kg,http://dbpedia.org/resource/Chorizo
-1375,3038,chorizo,2.19,7.3,kg,http://dbpedia.org/resource/Chorizo
-1377,4571,chorizo,2.65,6.97,kg,http://dbpedia.org/resource/Chorizo
-1404,1056,chorizo,2.75,18.33,kg,http://dbpedia.org/resource/Chorizo
-2162,1809,chorizo,3.2,5.334,kg,http://dbpedia.org/resource/Chorizo
-2163,2576,chorizo,2.44,12.2,kg,http://dbpedia.org/resource/Chorizo
-2165,2580,chorizo,2.3,11.5,kg,http://dbpedia.org/resource/Chorizo
-2167,4582,chorizo,2.25,5.922,kg,http://dbpedia.org/resource/Chorizo
-181,1508,pavo,2.1,12.35,kg,http://dbpedia.org/resource/Pavo_(constellation)
-394,160,pavo,1.39,5.91,kg,http://dbpedia.org/resource/Pavo_(constellation)
-398,189,pavo,0.79,2.63,kg,http://dbpedia.org/resource/Pavo_(constellation)
-400,486,pavo,5.84,7.79,kg,http://dbpedia.org/resource/Pavo_(constellation)
-401,491,pavo,5.19,8.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
-403,576,pavo,1.13,5.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
-409,622,pavo,4.5,11.25,kg,http://dbpedia.org/resource/Pavo_(constellation)
-410,1091,pavo,2.15,9.35,kg,http://dbpedia.org/resource/Pavo_(constellation)
-414,1406,pavo,1.79,6.39,kg,http://dbpedia.org/resource/Pavo_(constellation)
-415,1506,pavo,2.66,15.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
-420,1507,pavo,2.4,12.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
-423,1508,pavo,2.1,12.35,kg,http://dbpedia.org/resource/Pavo_(constellation)
-430,1509,pavo,0.99,11.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1089,3044,pavo,3.55,7.1,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1094,3082,pavo,1.0,13.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1108,4761,pavo,1.95,9.75,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1111,4785,pavo,3.95,9.88,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1350,1056,pavo,2.75,18.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1397,571,pavo,10.39,6.93,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1398,1016,pavo,4.94,7.49,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1400,1017,pavo,11.99,11.99,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1402,1018,pavo,6.01,7.29,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1405,1056,pavo,2.75,18.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1407,1057,pavo,2.75,18.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1408,2051,pavo,4.29,4.77,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1410,2079,pavo,3.99,11.74,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1411,2100,pavo,0.65,6.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1413,2103,pavo,0.65,6.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1416,2401,pavo,1.45,6.17,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1417,2502,pavo,0.95,3.17,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1418,2542,pavo,5.59,7.99,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1420,2543,pavo,7.37,8.99,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1422,2544,pavo,6.96,8.49,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1425,2545,pavo,2.45,10.21,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1427,3044,pavo,3.55,7.1,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1429,3049,pavo,0.75,4.41,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1430,3051,pavo,2.5,4.17,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1431,3052,pavo,2.0,6.67,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1433,3059,pavo,1.0,13.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1435,3076,pavo,2.05,17.08,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1437,3081,pavo,1.79,4.26,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1438,3082,pavo,1.0,13.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1441,3085,pavo,1.99,17.3,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1443,3087,pavo,1.0,14.29,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1444,3093,pavo,2.05,17.83,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1445,4200,pavo,2.19,11.53,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1446,4234,pavo,2.49,10.83,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1448,4751,pavo,1.0,14.29,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1449,4753,pavo,2.05,6.21,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1450,4759,pavo,1.59,7.95,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1452,4761,pavo,1.95,9.75,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1456,4766,pavo,2.45,2.72,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1457,4769,pavo,2.19,10.95,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1460,4783,pavo,2.0,6.67,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1461,4784,pavo,2.0,13.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1463,4785,pavo,3.95,9.88,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1465,4788,pavo,2.15,8.6,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1467,4798,pavo,3.39,8.48,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1469,4799,pavo,1.55,7.75,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1471,4800,pavo,1.59,7.95,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1473,4802,pavo,3.25,6.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1928,4056,pavo,1.65,13.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1967,2173,pavo,3.15,7.875,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1970,2185,pavo,3.38,6.76,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1983,4049,pavo,2.09,9.289,kg,http://dbpedia.org/resource/Pavo_(constellation)
-1987,4063,pavo,3.3,8.919,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2224,60,pavo,0.6,1.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2225,61,pavo,0.6,6.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2226,63,pavo,1.25,3.125,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2227,66,pavo,2.5,3.125,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2228,83,pavo,1.2,24.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2231,546,pavo,0.85,2.834,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2232,926,pavo,2.76,7.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2233,937,pavo,3.35,5.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2235,950,pavo,2.15,8.959,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2237,959,pavo,3.5,7.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2238,962,pavo,3.2,8.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2239,1322,pavo,5.64,9.89,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2241,1323,pavo,4.74,7.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2242,1324,pavo,3.95,7.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2243,1353,pavo,5.19,8.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2244,1354,pavo,5.49,7.23,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2245,1355,pavo,4.74,7.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2246,1358,pavo,3.29,10.98,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2247,1409,pavo,1.25,3.125,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2248,1412,pavo,1.6,4.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2250,1439,pavo,0.95,5.589,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2251,1441,pavo,1.7,4.25,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2252,2066,pavo,3.62,6.704,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2254,2075,pavo,5.9,5.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2256,2087,pavo,3.38,9.136,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2258,2093,pavo,4.19,6.99,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2259,2094,pavo,4.2,8.4,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2260,2095,pavo,4.93,8.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2262,2098,pavo,3.72,6.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2263,2173,pavo,3.15,7.875,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2266,2174,pavo,3.15,7.875,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2269,2175,pavo,2.58,17.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2270,2176,pavo,2.54,25.4,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2271,2178,pavo,2.05,10.25,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2272,2180,pavo,1.08,7.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2274,2183,pavo,1.98,9.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2277,2184,pavo,2.37,4.74,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2278,2185,pavo,3.38,6.76,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2280,2563,pavo,2.35,5.875,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2282,2575,pavo,2.55,17.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2284,2636,pavo,1.99,12.438,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2286,3560,pavo,1.0,3.334,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2287,3795,pavo,1.4,5.958,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2288,4049,pavo,2.09,9.289,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2291,4050,pavo,1.96,9.8,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2293,4051,pavo,1.98,9.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2295,4052,pavo,2.61,20.88,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2296,4053,pavo,1.55,6.889,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2298,4056,pavo,1.65,13.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2300,4057,pavo,3.02,6.04,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2301,4058,pavo,2.3,19.167,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2304,4060,pavo,2.79,11.873,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2306,4062,pavo,2.45,24.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2309,4063,pavo,3.3,8.919,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2311,4524,pavo,2.84,12.086,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2313,60,pavo,0.6,1.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2321,546,pavo,0.85,2.834,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2387,1439,pavo,0.95,5.589,kg,http://dbpedia.org/resource/Pavo_(constellation)
-2168,89,Bacalao,3.1,38.75,kg,http://dbpedia.org/resource/Bacalao
-2169,2988,Bacalao,3.75,16.305,kg,http://dbpedia.org/resource/Bacalao
-2172,3001,Bacalao,7.48,14.95,kg,http://dbpedia.org/resource/Bacalao
-2175,3527,Bacalao,15.29,6.95,kg,http://dbpedia.org/resource/Bacalao
-2176,3528,Bacalao,15.29,6.95,kg,http://dbpedia.org/resource/Bacalao
-2179,3595,Bacalao,4.24,6.95,kg,http://dbpedia.org/resource/Bacalao
-2180,3596,Bacalao,4.24,6.95,kg,http://dbpedia.org/resource/Bacalao
-378,518,Bacalao,3.99,15.96,kg,http://dbpedia.org/resource/Bacalhau
-380,519,Bacalao,2.99,12.46,kg,http://dbpedia.org/resource/Bacalhau
-98,2300,nueces,5.05,0.84,ud,http://dbpedia.org/resource/Nueces_River
-385,1329,nueces,6.99,17.47,kg,http://dbpedia.org/resource/Nueces_River
-1379,55,nueces,1.05,26.25,kg,http://dbpedia.org/resource/Nueces_River
-1382,1651,nueces,2.69,5.85,kg,http://dbpedia.org/resource/Nueces_River
-1383,1658,nueces,1.29,2.58,kg,http://dbpedia.org/resource/Nueces_River
-1385,1665,nueces,1.29,2.58,kg,http://dbpedia.org/resource/Nueces_River
-1386,2658,nueces,1.89,1.89,l,http://dbpedia.org/resource/Nueces_River
-1387,3116,nueces,1.55,3.1,kg,http://dbpedia.org/resource/Nueces_River
-1388,3421,nueces,3.35,6.7,kg,http://dbpedia.org/resource/Nueces_River
-1389,3468,nueces,3.15,21.0,kg,http://dbpedia.org/resource/Nueces_River
-1390,3577,nueces,2.45,7.0,kg,http://dbpedia.org/resource/Nueces_River
-1393,3836,nueces,1.45,1.93,l,http://dbpedia.org/resource/Nueces_River
-1395,5138,nueces,2.9,14.5,kg,http://dbpedia.org/resource/Nueces_River
-2207,569,nueces,0.65,8.125,kg,http://dbpedia.org/resource/Nueces_River
-2210,589,nueces,3.7,8.605,kg,http://dbpedia.org/resource/Nueces_River
-2211,661,nueces,1.3,2.6,kg,http://dbpedia.org/resource/Nueces_River
-2212,1022,nueces,1.35,9.0,kg,http://dbpedia.org/resource/Nueces_River
-2214,2677,nueces,2.65,2.65,l,http://dbpedia.org/resource/Nueces_River
-2215,2679,nueces,2.45,4.9,l,http://dbpedia.org/resource/Nueces_River
-2217,3066,nueces,1.5,4.286,kg,http://dbpedia.org/resource/Nueces_River
-2218,3081,nueces,1.5,4.286,kg,http://dbpedia.org/resource/Nueces_River
-2220,3361,nueces,11.1,1.85,l,http://dbpedia.org/resource/Nueces_River
-2222,3386,nueces,1.85,1.85,l,http://dbpedia.org/resource/Nueces_River
-204,631,calabaza,2.3,4.74,l,http://dbpedia.org/resource/Calabaza
-206,659,calabaza,4.75,23.75,kg,http://dbpedia.org/resource/Calabaza
-210,1616,calabaza,1.94,15.52,kg,http://dbpedia.org/resource/Calabaza
-1121,21,calabaza,2.15,4.3,kg,http://dbpedia.org/resource/Calabaza
-1123,1877,calabaza,1.09,2.18,l,http://dbpedia.org/resource/Calabaza
-1125,1907,calabaza,2.39,4.78,l,http://dbpedia.org/resource/Calabaza
-1127,4738,calabaza,2.05,4.1,l,http://dbpedia.org/resource/Calabaza
-1128,5114,calabaza,1.89,16.43,kg,http://dbpedia.org/resource/Calabaza
-1997,382,calabaza,1.22,1.85,kg,http://dbpedia.org/resource/Calabaza
-1998,1269,calabaza,1.7,11.334,kg,http://dbpedia.org/resource/Calabaza
-1999,1277,calabaza,1.6,12.8,kg,http://dbpedia.org/resource/Calabaza
-2001,1282,calabaza,2.2,14.667,kg,http://dbpedia.org/resource/Calabaza
-2003,3624,calabaza,1.8,3.104,kg,http://dbpedia.org/resource/Calabaza
-2005,4202,calabaza,1.7,4.858,kg,http://dbpedia.org/resource/Calabaza
-2007,4236,calabaza,0.95,1.9,l,http://dbpedia.org/resource/Calabaza
-2008,4322,calabaza,2.35,9.4,kg,http://dbpedia.org/resource/Calabaza
-455,382,cerdo,2.45,12.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-457,498,cerdo,4.55,4.55,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-459,499,cerdo,4.5,7.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-461,500,cerdo,2.99,4.99,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-463,501,cerdo,2.75,5.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-466,612,cerdo,3.0,7.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-469,1340,cerdo,0.7,9.33,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-473,1342,cerdo,3.15,18.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-474,1528,cerdo,1.99,8.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-477,1568,cerdo,9.71,12.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-480,2374,cerdo,7.07,5.89,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-487,2384,cerdo,4.55,22.75,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-492,2392,cerdo,2.99,4.6,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-494,2398,cerdo,3.29,9.97,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-497,2399,cerdo,1.89,1.89,ud,http://dbpedia.org/resource/Cerdo_(gnostic)
-1051,1540,cerdo,3.24,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1605,1095,cerdo,1.0,13.33,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1606,1126,cerdo,1.0,13.33,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1609,1532,cerdo,2.89,7.23,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1610,1533,cerdo,11.89,8.49,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1612,1534,cerdo,4.09,6.29,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1615,1536,cerdo,2.29,5.73,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1616,1539,cerdo,2.97,5.94,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1617,1540,cerdo,3.24,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1619,1542,cerdo,2.25,7.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1620,1955,cerdo,1.09,5.45,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1622,1956,cerdo,2.65,14.4,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1625,1957,cerdo,2.05,8.54,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1627,3035,cerdo,4.88,5.19,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1630,3036,cerdo,2.59,5.18,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1631,3039,cerdo,3.79,7.58,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1632,3040,cerdo,2.97,5.94,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1635,3041,cerdo,1.99,4.98,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1636,3091,cerdo,2.05,9.32,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1639,3442,cerdo,0.75,10.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1640,3445,cerdo,1.85,7.91,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1643,4744,cerdo,8.95,6.39,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1645,4745,cerdo,5.49,4.99,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1647,4746,cerdo,3.39,5.65,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1649,4747,cerdo,3.79,7.58,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1650,4748,cerdo,1.99,8.29,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1651,4772,cerdo,3.49,5.82,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1652,4773,cerdo,5.99,7.49,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1654,4774,cerdo,3.99,6.65,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1656,4776,cerdo,4.89,6.79,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1658,4777,cerdo,3.69,7.38,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1659,4778,cerdo,3.99,7.39,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1662,4779,cerdo,5.69,6.32,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1663,4780,cerdo,1.99,8.29,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1966,2124,cerdo,2.68,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2249,1439,cerdo,0.95,5.589,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2344,916,cerdo,5.6,5.6,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2345,919,cerdo,2.6,5.2,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2347,920,cerdo,0.67,4.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2348,921,cerdo,1.22,3.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2349,922,cerdo,2.1,4.2,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2350,924,cerdo,1.24,3.55,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2351,928,cerdo,0.77,4.3,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2352,931,cerdo,1.24,4.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2353,935,cerdo,2.95,9.85,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2354,940,cerdo,4.37,9.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2355,952,cerdo,2.91,8.084,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2356,953,cerdo,2.81,7.806,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2358,956,cerdo,3.5,7.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2360,957,cerdo,2.39,4.78,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2362,960,cerdo,3.98,4.739,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2363,1296,cerdo,6.26,21.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2364,1375,cerdo,3.67,6.93,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2365,1376,cerdo,5.29,5.88,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2366,1377,cerdo,5.7,5.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2368,1378,cerdo,3.03,5.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2369,1379,cerdo,2.4,5.99,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2371,1380,cerdo,2.05,5.125,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2372,1381,cerdo,2.99,5.75,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2373,1382,cerdo,2.34,5.2,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2374,1383,cerdo,3.3,7.34,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2375,1384,cerdo,2.25,17.308,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2376,1410,cerdo,1.35,3.375,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2380,1411,cerdo,1.59,5.782,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2381,1413,cerdo,2.1,6.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2382,1414,cerdo,2.75,16.177,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2384,1437,cerdo,1.52,2.16,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2385,1438,cerdo,3.85,11.324,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2386,1439,cerdo,0.95,5.589,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2389,1440,cerdo,1.7,2.657,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2390,1794,cerdo,6.5,6.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2392,1796,cerdo,5.35,10.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2394,2052,cerdo,5.64,7.05,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2395,2063,cerdo,3.71,6.871,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2396,2065,cerdo,2.29,9.542,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2398,2067,cerdo,2.44,8.715,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2400,2072,cerdo,5.74,5.74,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2402,2073,cerdo,4.7,4.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2403,2080,cerdo,2.25,5.625,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2406,2082,cerdo,4.34,8.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2409,2084,cerdo,2.68,7.244,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2410,2085,cerdo,3.99,6.65,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2412,2088,cerdo,3.27,6.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2413,2091,cerdo,3.88,9.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2414,2096,cerdo,3.26,7.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2417,2099,cerdo,4.82,21.9,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2419,2100,cerdo,3.9,7.8,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2421,2102,cerdo,6.17,6.85,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2422,2122,cerdo,3.31,10.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2423,2124,cerdo,2.68,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2425,2126,cerdo,4.25,8.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2427,2128,cerdo,2.59,7.4,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2429,2130,cerdo,3.45,9.07,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2433,2530,cerdo,2.16,4.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2434,2531,cerdo,6.47,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2436,2532,cerdo,3.63,7.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2437,2533,cerdo,5.27,6.59,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2439,2534,cerdo,5.51,4.59,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2440,2589,cerdo,0.95,5.938,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2442,2590,cerdo,1.4,14.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2443,2591,cerdo,0.95,5.938,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2444,2592,cerdo,1.4,14.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2446,2594,cerdo,1.6,10.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2447,2597,cerdo,1.75,7.292,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2448,2607,cerdo,1.75,14.584,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2450,2627,cerdo,1.75,7.292,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2451,2628,cerdo,1.8,18.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2452,2629,cerdo,1.95,9.75,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2453,2630,cerdo,1.75,17.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2454,2635,cerdo,1.85,11.563,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2455,3559,cerdo,4.0,40.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2456,4077,cerdo,2.49,10.375,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2458,4079,cerdo,1.25,5.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2459,4123,cerdo,28.0,6.072,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2461,4464,cerdo,2.39,5.98,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2462,4465,cerdo,5.48,10.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2463,4468,cerdo,2.34,5.56,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2465,4469,cerdo,1.91,3.98,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2466,4470,cerdo,6.82,28.4,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2467,4471,cerdo,5.93,23.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2468,4472,cerdo,6.99,18.9,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2469,4473,cerdo,2.96,4.56,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2470,4474,cerdo,3.0,5.99,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2472,4475,cerdo,3.53,6.79,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2473,4476,cerdo,4.95,4.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2475,4477,cerdo,3.26,7.08,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2476,4478,cerdo,3.16,3.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2477,4532,cerdo,1.35,5.625,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-2478,4533,cerdo,0.95,5.938,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
-1036,831,aguacate,2.5,2.5,ud,http://dbpedia.org/resource/Avocado
-1037,1142,aguacate,1.55,12.4,kg,http://dbpedia.org/resource/Avocado
-1039,1939,aguacate,5.99,23.96,l,http://dbpedia.org/resource/Avocado
-1040,5283,aguacate,1.89,7.56,l,http://dbpedia.org/resource/Avocado
-1041,5294,aguacate,3.29,54.83,kg,http://dbpedia.org/resource/Avocado
+,index,ingrediente,name,price,reference_price,reference_unit,dbpedia_Uri
+1377,831,aguacate,IROHA mascarilla facial hidratante con aguacate y ácido hialurónico 1 ud,2.5,2.5,ud,http://dbpedia.org/resource/Avocado
+1378,1142,aguacate,Pulpa de aguacate tarrina 125 gr,1.55,12.4,kg,http://dbpedia.org/resource/Avocado
+1380,1939,aguacate,LA ESPAÑOLA aceite de aguacate botella 250 ml,5.99,23.96,l,http://dbpedia.org/resource/Avocado
+1381,5283,aguacate,BONTE champú aguacate y karité antiencrespamiento bote 250 ml,1.89,7.56,l,http://dbpedia.org/resource/Avocado
+1382,5294,aguacate,DIA IMAQE Naturals champú sólido reparador con aguacate y arándanos 60 gr,3.29,54.83,kg,http://dbpedia.org/resource/Avocado
+406,382,cerdo,Magro de cerdo ibérico cocido Louriño 200 g.,2.45,12.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+408,498,cerdo,Chuleta de aguja de cerdo Carrefour 1 kg aprox,4.55,4.55,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+410,499,cerdo,EScalopin de lomo de cerdo fresco marinado El Pozo Extratiernos 600 g,4.5,7.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+412,500,cerdo,Jamón de cerdo troceado Carrefour 600 g aprox,2.99,4.99,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+414,501,cerdo,Filete de cabeza de lomo de cerdo Carrefour 500 g aprox,2.75,5.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+417,612,cerdo,Oreja de cerdo cocida adobada Carrefour 400 g,3.0,7.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+420,1340,cerdo,Cortezas de cerdo fritas Classic Carrefour sin gluten 75 g.,0.7,9.33,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+424,1342,cerdo,Morritos de cerdo 175 g,3.15,18.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+425,1528,cerdo,Paté de hígado de cerdo Classic Carrefour pack de 4 unidades de 78 g.,1.99,8.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+428,1568,cerdo,Paleta de cerdo asada sin hueso Benaojan 750 g aprox,9.71,12.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+431,2374,cerdo,"Solomillo de cerdo Carrefour 1,2 kg aprox",7.07,5.89,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+438,2384,cerdo,Lomo Ibérico de cerdo adobado 200 g,4.55,22.75,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+443,2392,cerdo,Longaniza blanca de cerdo fresca ElPozo 650 g,2.99,4.6,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+445,2398,cerdo,Lomo de cerdo adobado al horno El Pozo 330 g,3.29,9.97,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+448,2399,cerdo,Albóndigas de cerdo Carrefour 400 g,1.89,1.89,ud,http://dbpedia.org/resource/Cerdo_(gnostic)
+1396,1095,cerdo,FOURIER paté de cerdo a la pimienta envase 75 gr,1.0,13.33,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1397,1126,cerdo,FOURIER paté de cerdo a las finas hierbas tarro 75 gr,1.0,13.33,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1400,1532,cerdo,SELECCIÓN DE DIA filetes de cinta de lomo de cerdo bandeja 400 gr,2.89,7.23,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1401,1533,cerdo,SELECCIÓN DE DIA tira de costilla de cerdo a las finas hierbas (peso aprox. 1.4 Kg),11.89,8.49,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1403,1534,cerdo,SELECCIÓN DE DIA filetes de cabeza de lomo de cerdo (peso aprox. 650 gr),4.09,6.29,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1406,1536,cerdo,SELECCIÓN DE DIA albóndigas de cerdo bandeja 400 gr,2.29,5.73,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1407,1539,cerdo,EMCESA oreja de cerdo al ajillo envase 500 gr,2.97,5.94,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1408,1540,cerdo,SELECCIÓN DE DIA chuletas de cerdo de Sajonia bandeja (peso aprox. 350 gr),3.24,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1410,1542,cerdo,Lomo de cerdo extra al ajillo bandeja 300 gr,2.25,7.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1411,1955,cerdo,DIA paté de hígado de cerdo tarro 200 gr,1.09,5.45,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1413,1956,cerdo,LA PIARA paté de hígado de cerdo pack 2 latas 184 gr,2.65,14.4,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1416,1957,cerdo,MINA paté de hígado de cerdo pack 3 latas 240 gr,2.05,8.54,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1418,3035,cerdo,SELECCIÓN DE DIA chuleta de aguja de cerdo bandeja (peso aprox. 940 gr),4.88,5.19,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1421,3036,cerdo,SELECCIÓN DE DIA preparado de carne picada de cerdo bandeja 500 gr,2.59,5.18,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1422,3039,cerdo,SELECCIÓN DE DIA costillas troceadas de cerdo bandeja 500 gr,3.79,7.58,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1423,3040,cerdo,EMCESA oreja de cerdo adobada envase 500 gr,2.97,5.94,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1426,3041,cerdo,CAMPOFRÍO preparado de carne picada de cerdo 400 gr,1.99,4.98,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1427,3091,cerdo,DIA magro de cerdo lata 220 gr,2.05,9.32,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1430,3442,cerdo,DIA SNACK MANIAC cortezas de cerdo bolsa 75 gr,0.75,10.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1431,3445,cerdo,DIA paté hígado de cerdo lata 3 x 78 gr,1.85,7.91,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1434,4744,cerdo,SELECCIÓN DE DIA Tira de costilla de cerdo envasada al vacío (peso aprox. 1.4 kg),8.95,6.39,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1436,4745,cerdo,SELECCIÓN DE DIA cinta de lomo de cerdo en trozo (peso aprox. 1.1 Kg),5.49,4.99,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1438,4746,cerdo,SELECCIÓN DE DIA estofado de cerdo bandeja 600 gr,3.39,5.65,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1440,4747,cerdo,SELECCIÓN DE DIA preparado de carne picada de cerdo y vacuno bandeja 500 gr,3.79,7.58,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1441,4748,cerdo,ELPOZO hamburguesas de cerdo y vacuno con queso y bacon bandeja 240 gr,1.99,8.29,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1442,4772,cerdo,SELECCIÓN DE DIA chuleta de lomo de cerdo bandeja 600 gr,3.49,5.82,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1443,4773,cerdo,SELECCIÓN DE DIA solomillo de cerdo (peso aprox. 800 gr),5.99,7.49,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1445,4774,cerdo,ELPOZO escalopín de lomo de cerdo marinado extratierno bandeja 600 gr,3.99,6.65,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1447,4776,cerdo,SELECCIÓN DE DIA secreto de cerdo (peso aprox. 720 gr),4.89,6.79,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1449,4777,cerdo,SELECCIÓN DE DIA panceta fileteada de cerdo bandeja 500 gr,3.69,7.38,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1450,4778,cerdo,SELECCIÓN DE DIA hamburguesas de cerdo y vacuno bandeja 6 uds 540 gr,3.99,7.39,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1453,4779,cerdo,SELECCIÓN DE DIA preparado de carne picada de vacuno y cerdo bandeja 900 gr,5.69,6.32,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1454,4780,cerdo,ELPOZO hamburguesas de cerdo y vacuno American BBQ bandeja 240 gr,1.99,8.29,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1596,1540,cerdo,SELECCIÓN DE DIA chuletas de cerdo de Sajonia bandeja (peso aprox. 350 gr),3.24,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+1889,1439,cerdo,"Salchichas cocidas con leche Campofrío de pollo, cerdo y pavo",0.95,5.589,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2251,916,cerdo,"Arreglo para puchero vacuno, cerdo y pollo",5.6,5.6,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2252,919,cerdo,Manos de cerdo,2.6,5.2,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2254,920,cerdo,Tocino de cerdo,0.67,4.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2255,921,cerdo,Hueso blanco de cerdo salado,1.22,3.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2256,922,cerdo,Preparado de cerdo salado,2.1,4.2,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2257,924,cerdo,Espinazo de cerdo salado,1.24,3.55,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2258,928,cerdo,Espinazo de cerdo,0.77,4.3,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2259,931,cerdo,Rabo de cerdo,1.24,4.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2260,935,cerdo,Medallones preparado de solomillo cerdo congelados marinados,2.95,9.85,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2261,940,cerdo,Carrillada de cerdo congelada,4.37,9.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2262,952,cerdo,Burger de vacuno y cerdo gruesas,2.91,8.084,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2263,953,cerdo,Burger de cerdo ibérico gruesas,2.81,7.806,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2265,956,cerdo,Preparado de carne picada vacuno y cerdo,3.5,7.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2267,957,cerdo,Preparado de carne picada cerdo,2.39,4.78,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2269,960,cerdo,Albóndigas de cerdo,3.98,4.739,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2270,1296,cerdo,Lomo de cerdo ibérico,6.26,21.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2271,1375,cerdo,Costillas de cerdo carnosas a tacos,3.67,6.93,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2272,1376,cerdo,Filetes lomo de cerdo familiar,5.29,5.88,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2273,1377,cerdo,Costilla de cerdo churrasco,5.7,5.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2275,1378,cerdo,Filetes lomo de cerdo cabeza,3.03,5.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2276,1379,cerdo,Secreto de cerdo,2.4,5.99,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2278,1380,cerdo,Manteca de cerdo Mont-Palau para cocinar,2.05,5.125,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2279,1381,cerdo,Filetes de cerdo magro jamón,2.99,5.75,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2280,1382,cerdo,Filetes hígado de cerdo,2.34,5.2,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2281,1383,cerdo,Libritos lomo de cerdo,3.3,7.34,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2282,1384,cerdo,Sesos de cerdo,2.25,17.308,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2283,1410,cerdo,Salchichas cocidas estilo Viena con queso Hacendado de pollo y cerdo sabor ahumado,1.35,3.375,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2287,1411,cerdo,Salchichas cocidas hot dog bocadillo Oscar Mayer Classic de pollo y cerdo sabor ahumado,1.59,5.782,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2288,1413,cerdo,Salchichas cocidas bocata gourmet Hacendado de cerdo sabor ahumado,2.1,6.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2289,1414,cerdo,Salchichas cocidas pikante Schara de cerdo ahumadas,2.75,16.177,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2291,1437,cerdo,Salchichas cocidas estilo Frankfurt Hacendado de pollo y cerdo sabor ahumado,1.52,2.16,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2292,1438,cerdo,Salchichas cocidas Schara de cerdo ahumadas,3.85,11.324,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2293,1439,cerdo,"Salchichas cocidas con leche Campofrío de pollo, cerdo y pavo",0.95,5.589,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2296,1440,cerdo,Salchichas cocidas estilo Frankfurt con queso Hacendado de pollo y cerdo sabor ahumado,1.7,2.657,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2297,1794,cerdo,Codillo de cerdo asado Hacendado,6.5,6.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2299,1796,cerdo,Costillas de cerdo a la barbacoa cortadas Hacendado,5.35,10.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2301,2052,cerdo,Solomillo de cerdo marinado congelado,5.64,7.05,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2302,2063,cerdo,Burger de vacuno y cerdo,3.71,6.871,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2303,2065,cerdo,Burger de vacuno y cerdo con jamón y cebolla caramelizada,2.29,9.542,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2305,2067,cerdo,Mini burgers de vacuno y cerdo,2.44,8.715,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2307,2072,cerdo,Preparado de carne picada vacuno y cerdo,5.74,5.74,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2309,2073,cerdo,Preparado de carne picada cerdo,4.7,4.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2310,2080,cerdo,San Jacobos de cerdo sin gluten,2.25,5.625,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2313,2082,cerdo,Pinchos de cerdo sin varilla,4.34,8.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2316,2084,cerdo,Fiambre de magro de cerdo adobado,2.68,7.244,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2317,2085,cerdo,Costilla de cerdo ibérico adobada,3.99,6.65,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2319,2088,cerdo,Lomo de cerdo adobado,3.27,6.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2320,2091,cerdo,Medallones preparado de solomillo cerdo provenzal,3.88,9.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2321,2096,cerdo,Filetes de cerdo empanados sin gluten,3.26,7.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2324,2099,cerdo,Lomo de cerdo ibérico adobado,4.82,21.9,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2326,2100,cerdo,Oreja de cerdo cocida adobada Rogusa,3.9,7.8,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2328,2102,cerdo,Lomo de cerdo adobado familiar,6.17,6.85,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2329,2122,cerdo,Pinchos de cerdo con varilla,3.31,10.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2330,2124,cerdo,Chuletas de cerdo sajonia,2.68,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2332,2126,cerdo,Pincho amarillo de cerdo con perejil,4.25,8.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2334,2128,cerdo,Fiambre de magreta de cerdo adobada,2.59,7.4,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2336,2130,cerdo,Libritos de cerdo rellenos de pimiento verde y jamón curado empanados sin gluten,3.45,9.07,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2340,2530,cerdo,Chuletas lomo de cerdo,2.16,4.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2341,2531,cerdo,Solomillo de cerdo marinado con romero,6.47,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2343,2532,cerdo,Lagarto de cerdo,3.63,7.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2344,2533,cerdo,Costilla de cerdo a tiras,5.27,6.59,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2346,2534,cerdo,Pieza magro cabeza de cerdo,5.51,4.59,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2347,2589,cerdo,Paté de cerdo con finas hierbas Hacendado,0.95,5.938,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2349,2590,cerdo,Paté de cerdo con pimienta verde Hacendado,1.4,14.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2350,2591,cerdo,Paté de cerdo campaña Hacendado,0.95,5.938,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2351,2592,cerdo,Paté de cerdo con finas hierbas Hacendado,1.4,14.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2353,2594,cerdo,Paté de cerdo light Hacendado,1.6,10.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2354,2597,cerdo,Paté de cerdo sabor intenso Hacendado,1.75,7.292,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2355,2607,cerdo,Paté de cerdo ibérico Hacendado al Pimentón de la Vera,1.75,14.584,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2357,2627,cerdo,Paté de cerdo ibérico Hacendado,1.75,7.292,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2358,2628,cerdo,Paté de cerdo y pollo con trufa y arándanos Hacendado,1.8,18.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2359,2629,cerdo,Paté de cerdo Hacendado con cebolla caramelizada,1.95,9.75,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2360,2630,cerdo,Paté de cerdo campaña Hacendado,1.75,17.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2361,2635,cerdo,Paté de cerdo sabor picante Hacendado,1.85,11.563,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2362,3559,cerdo,Gyozas de cerdo y verduras,4.0,40.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2363,4077,cerdo,Magro de cerdo cocido Coren,2.49,10.375,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2365,4079,cerdo,Chopped cerdo Hacendado lonchas,1.25,5.0,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2366,4123,cerdo,Paleta de cerdo curada Marpa,28.0,6.072,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2368,4464,cerdo,Filetes lomo de cerdo,2.39,5.98,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2369,4465,cerdo,Carrillada de cerdo,5.48,10.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2370,4468,cerdo,Media careta de cerdo sin oreja,2.34,5.56,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2372,4469,cerdo,Codillo de cerdo,1.91,3.98,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2373,4470,cerdo,Presa de cerdo ibérico,6.82,28.4,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2374,4471,cerdo,Secreto de cerdo ibérico,5.93,23.7,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2375,4472,cerdo,Solomillo de cerdo ibérico,6.99,18.9,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2376,4473,cerdo,Chuletas aguja de cerdo,2.96,4.56,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2377,4474,cerdo,Solomillo de cerdo,3.0,5.99,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2379,4475,cerdo,Oreja de cerdo,3.53,6.79,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2380,4476,cerdo,Codillo de cerdo semicocido al estilo Alemán,4.95,4.5,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2382,4477,cerdo,Filetes lomo de cerdo extra tiernos,3.26,7.08,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2383,4478,cerdo,Lomo de cerdo trozo,3.16,3.95,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2384,4532,cerdo,Paté de cerdo sabor suave Hacendado,1.35,5.625,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2385,4533,cerdo,Paté de cerdo con pimienta Hacendado,0.95,5.938,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+2449,2124,cerdo,Chuletas de cerdo sajonia,2.68,9.25,kg,http://dbpedia.org/resource/Cerdo_(gnostic)
+171,2784,pepino,Lavavajillas a mano aroma aloe vera y pepino Fairy 1015 ml.,4.63,4.56,l,http://dbpedia.org/resource/Solanum_muricatum
+463,1718,pepino,Gazpacho suave sin pepino Extra Carrefour sin gluten 1 l.,1.39,1.39,l,http://dbpedia.org/resource/Solanum_muricatum
+468,1838,pepino,Lavavajillas a mano aroma aloe vera y pepino Fairy 650 ml.,2.99,4.6,l,http://dbpedia.org/resource/Solanum_muricatum
+1456,4099,pepino,DOVE desodorante go fresh pepino zero aluminio roll on 50 ml,2.89,57.8,l,http://dbpedia.org/resource/Solanum_muricatum
+2,1329,nueces,Helado de nueces de macadamia Häagen Dazs sin gluten 460 ml.,6.99,17.47,kg,http://dbpedia.org/resource/Nueces_River
+330,2300,nueces,"Mini bombón helado de caramelo con nueces pecanas, vainilla almendrado y chocolate blanco con frutos rojos Nuii 6 ud.",5.05,0.84,ud,http://dbpedia.org/resource/Nueces_River
+511,55,nueces,"JUST LOADING barrita con dátil, coco y nueces envase 40 gr",1.05,26.25,kg,http://dbpedia.org/resource/Nueces_River
+514,1651,nueces,DANONE ACTIVIA bífidus fibras con avena y nueces pack 4 unidades 115 gr,2.69,5.85,kg,http://dbpedia.org/resource/Nueces_River
+515,1658,nueces,DIA BÍFIDUS cremoso con nueces y cereales 0% pack 4 unidades 125 gr,1.29,2.58,kg,http://dbpedia.org/resource/Nueces_River
+517,1665,nueces,DIA BíFIDUS cremoso con fresa y nueces pack 4 unidades 125 gr,1.29,2.58,kg,http://dbpedia.org/resource/Nueces_River
+518,2658,nueces,PULEVA leche omega 3 con nueces envase 1 lt,1.89,1.89,l,http://dbpedia.org/resource/Nueces_River
+519,3116,nueces,DIA FIDIAS yogur griego con nueces pack 4 unidades 125 gr,1.55,3.1,kg,http://dbpedia.org/resource/Nueces_River
+520,3421,nueces,DIA NATURMUNDO nueces con cáscara al natural bolsa 500 gr,3.35,6.7,kg,http://dbpedia.org/resource/Nueces_River
+521,3468,nueces,DIA NATURMUNDO nueces peladas tarrina 150 gr,3.15,21.0,kg,http://dbpedia.org/resource/Nueces_River
+522,3577,nueces,DIA TEMPTATION helado de vainilla con nueces de macadamia tarrina 350 gr,2.45,7.0,kg,http://dbpedia.org/resource/Nueces_River
+525,3836,nueces,DIA IMAQE gel de ducha vainilla y sándalo con nueces de macadamia bote 750 ml,1.45,1.93,l,http://dbpedia.org/resource/Nueces_River
+527,5138,nueces,DIA NATURMUNDO nueces sin cáscara al natural bolsa 200 gr,2.9,14.5,kg,http://dbpedia.org/resource/Nueces_River
+1689,569,nueces,Trenza con nueces 4%,0.65,8.125,kg,http://dbpedia.org/resource/Nueces_River
+1692,589,nueces,Bizcocho con azúcar moreno y nueces,3.7,8.605,kg,http://dbpedia.org/resource/Nueces_River
+1693,661,nueces,Bífidus desnatado con nueces y cereales Hacendado 0% m.g.,1.3,2.6,kg,http://dbpedia.org/resource/Nueces_River
+1694,1022,nueces,Mousse de queso y nueces Hacendado,1.35,9.0,kg,http://dbpedia.org/resource/Nueces_River
+1696,2677,nueces,Helado vainilla praliné con nueces pecán Hacendado,2.65,2.65,l,http://dbpedia.org/resource/Nueces_River
+1697,2679,nueces,Helado vainilla y nueces de macadamia Hacendado,2.45,4.9,l,http://dbpedia.org/resource/Nueces_River
+1699,3066,nueces,"Pan de nueces 8,5%",1.5,4.286,kg,http://dbpedia.org/resource/Nueces_River
+1700,3081,nueces,"Pan de nueces 8,5% rebanado",1.5,4.286,kg,http://dbpedia.org/resource/Nueces_River
+1702,3361,nueces,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,11.1,1.85,l,http://dbpedia.org/resource/Nueces_River
+1704,3386,nueces,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,1.85,1.85,l,http://dbpedia.org/resource/Nueces_River
+177,160,pavo,Tarrito de verduritas con delicias de pavo desde 6 meses Hero Baby sin aceite de palma 235 g.,1.39,5.91,kg,http://dbpedia.org/resource/Pavo_(constellation)
+181,189,pavo,Comida húmeda de pavo con zanahorias para perros adultos Carrefour 300 g.,0.79,2.63,kg,http://dbpedia.org/resource/Pavo_(constellation)
+183,486,pavo,Solomillo de pavo 750 g aprox,5.84,7.79,kg,http://dbpedia.org/resource/Pavo_(constellation)
+184,491,pavo,Pechuga de pavo fileteada Carrefour 600 g aprox,5.19,8.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
+186,576,pavo,Salchichas de pavo Oscar Mayers Wieners sin gluten sin lactosa 200 g.,1.13,5.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
+192,622,pavo,"Cordon bleu de pechuga de pollo, pavo y queso 400 g",4.5,11.25,kg,http://dbpedia.org/resource/Pavo_(constellation)
+193,1091,pavo,Tarrito de pavo con verduras desde 6 meses ecológico Smileat sin gluten 230 g.,2.15,9.35,kg,http://dbpedia.org/resource/Pavo_(constellation)
+197,1406,pavo,"Flautas de pavo, pollo y queso 280 g",1.79,6.39,kg,http://dbpedia.org/resource/Pavo_(constellation)
+198,1506,pavo,Pechuga de pavo en lonchas finas Campofrío - Finissimas sin gluten sin lactosa 170 g.,2.66,15.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
+203,1507,pavo,Pechuga de pavo en lonchas El Pozo sin gluten 200 g.,2.4,12.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
+206,1508,pavo,Pechuga de pavo bajo en grasa y sal en finas lonchas Noel sin gluten y sin lactosa 170 g,2.1,12.35,kg,http://dbpedia.org/resource/Pavo_(constellation)
+213,1509,pavo,Pechuga de pavo en finas lonchas El Pozo Bienstar 85 g.,0.99,11.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
+495,1508,pavo,Pechuga de pavo bajo en grasa y sal en finas lonchas Noel sin gluten y sin lactosa 170 g,2.1,12.35,kg,http://dbpedia.org/resource/Pavo_(constellation)
+550,1056,pavo,DIA NUESTRA ALACENA chorizo de pavo en lonchas envase 2 x 75 gr,2.75,18.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
+779,571,pavo,ULTIMA alimento para gatos esterilizados anti bolas de pelo con pavo 1.5 Kg,10.39,6.93,kg,http://dbpedia.org/resource/Pavo_(constellation)
+780,1016,pavo,SELECCIÓN DE DIA chuleta de pavo bandeja (peso aprox. 660 gr),4.94,7.49,kg,http://dbpedia.org/resource/Pavo_(constellation)
+782,1017,pavo,SELECCIÓN DE DIA medallones de solomillo de pavo bandeja (peso aprox. 1 Kg),11.99,11.99,kg,http://dbpedia.org/resource/Pavo_(constellation)
+784,1018,pavo,SELECCIÓN DE DIA chuletas de pavo al ajillo bandeja (peso aprox. 825 gr),6.01,7.29,kg,http://dbpedia.org/resource/Pavo_(constellation)
+787,1056,pavo,DIA NUESTRA ALACENA chorizo de pavo en lonchas envase 2 x 75 gr,2.75,18.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
+789,1057,pavo,DIA NUESTRA ALACENA salchichón de pavo en lonchas pack 2 x 75 gr,2.75,18.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
+790,2051,pavo,BREKKIES alimento para gatos con pollo y pavo rellenas de jamón bolsa 900 gr,4.29,4.77,kg,http://dbpedia.org/resource/Pavo_(constellation)
+792,2079,pavo,ULTIMA Nature alimento para gatos con buey y pavo bolsa 4 x 85 gr,3.99,11.74,kg,http://dbpedia.org/resource/Pavo_(constellation)
+793,2100,pavo,AS alimento para gatos junior pollo/pavo tarro 100 gr,0.65,6.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
+795,2103,pavo,AS paté para gatos rico en pollo y pavo tarro 100 gr,0.65,6.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
+798,2401,pavo,HERO Baby verduritas con delicias de pavo tarrito 235 gr,1.45,6.17,kg,http://dbpedia.org/resource/Pavo_(constellation)
+799,2502,pavo,"DIA paté para perros cachorros con pollo, pavo y verduras tarrina 300 gr",0.95,3.17,kg,http://dbpedia.org/resource/Pavo_(constellation)
+800,2542,pavo,SELECCIÓN DE DIA solomillo de pavo envase (peso aprox. 700 gr),5.59,7.99,kg,http://dbpedia.org/resource/Pavo_(constellation)
+802,2543,pavo,SELECCIÓN DE DIA filete de pechuga de pavo bandeja (peso aprox. 820 gr),7.37,8.99,kg,http://dbpedia.org/resource/Pavo_(constellation)
+804,2544,pavo,SELECCIÓN DE DIA filete de pavo al pimentón bandeja (peso aprox. 820 gr),6.96,8.49,kg,http://dbpedia.org/resource/Pavo_(constellation)
+807,2545,pavo,SERRANO pechuga de pavo adobada bandeja 240 gr,2.45,10.21,kg,http://dbpedia.org/resource/Pavo_(constellation)
+809,3044,pavo,DIA NUESTRA ALACENA pechuga de pavo mini bajo en sal pieza 500 gr,3.55,7.1,kg,http://dbpedia.org/resource/Pavo_(constellation)
+811,3049,pavo,CAMPOFRIO salchichas de pavo cuida-t+ envase 170 gr,0.75,4.41,kg,http://dbpedia.org/resource/Pavo_(constellation)
+812,3051,pavo,ELPOZO salchichas big pavo envase pack 3 x 200 gr,2.5,4.17,kg,http://dbpedia.org/resource/Pavo_(constellation)
+813,3052,pavo,ELPOZO pavo sandwich en lonchas envase 340 gr,2.0,6.67,kg,http://dbpedia.org/resource/Pavo_(constellation)
+815,3059,pavo,ELPOZO pechuga de pavo finas lonchas sobre 85 gr,1.0,13.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
+817,3076,pavo,DIA NUESTRA ALACENA pechuga de pavo 90% en lonchas envase 120 gr,2.05,17.08,kg,http://dbpedia.org/resource/Pavo_(constellation)
+819,3081,pavo,CAMPOFRIO salchichas frankfurt de pavo pack 3 x 140 gr,1.79,4.26,kg,http://dbpedia.org/resource/Pavo_(constellation)
+820,3082,pavo,ELPOZO Bienstar pechuga de pavo en finas lonchas bajo en sal sobre 85 gr,1.0,13.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
+823,3085,pavo,CAMPOFRÍO Finissimas pechuga de pavo braseado en lonchas sobre 115 gr,1.99,17.3,kg,http://dbpedia.org/resource/Pavo_(constellation)
+825,3087,pavo,PAVOFRÍO fiambre de pechuga de pavo en lonchas sobre 70 gr,1.0,14.29,kg,http://dbpedia.org/resource/Pavo_(constellation)
+826,3093,pavo,CAMPOFRÍO Finissimas pechuga de pavo sobre 115 gr,2.05,17.83,kg,http://dbpedia.org/resource/Pavo_(constellation)
+827,4200,pavo,GERBER zanahoria y tomate con pavo tarrito 190 gr,2.19,11.53,kg,http://dbpedia.org/resource/Pavo_(constellation)
+828,4234,pavo,SMILEAT verduras y pavo tarrito 230 gr,2.49,10.83,kg,http://dbpedia.org/resource/Pavo_(constellation)
+830,4751,pavo,PAVOFRÍO fiambre de pechuga de pavo braseada envase 70 gr,1.0,14.29,kg,http://dbpedia.org/resource/Pavo_(constellation)
+831,4753,pavo,ELPOZO salchichas king de pavo envase 330 gr,2.05,6.21,kg,http://dbpedia.org/resource/Pavo_(constellation)
+832,4759,pavo,DIA NUESTRA ALACENA jamón de pavo en finas lonchas envase 200 gr,1.59,7.95,kg,http://dbpedia.org/resource/Pavo_(constellation)
+834,4761,pavo,DIA NUESTRA ALACENA pechuga de pavo bajo en sal finas lonchas envase 200 gr,1.95,9.75,kg,http://dbpedia.org/resource/Pavo_(constellation)
+838,4766,pavo,DIA NUESTRA ALACENA fiambre de pavo maxi pieza 900 gr,2.45,2.72,kg,http://dbpedia.org/resource/Pavo_(constellation)
+839,4769,pavo,DIA NUESTRA ALACENA pechuga de pavo braseado finas lonchas envase 200 gr,2.19,10.95,kg,http://dbpedia.org/resource/Pavo_(constellation)
+842,4783,pavo,EL POZO fiambre de pechuga de pavo mini pieza 300 gr,2.0,6.67,kg,http://dbpedia.org/resource/Pavo_(constellation)
+843,4784,pavo,ELPOZO jamón de pavo con trufa y boletus artesana en lonchas sobre 150 gr,2.0,13.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
+845,4785,pavo,ELPOZO pechuga pavo bajo en sal family sobre 2 x 200 gr,3.95,9.88,kg,http://dbpedia.org/resource/Pavo_(constellation)
+847,4788,pavo,DIA NUESTRA ALACENA pechuga de pavo sandwich envase 250 gr,2.15,8.6,kg,http://dbpedia.org/resource/Pavo_(constellation)
+849,4798,pavo,DIA NUESTRA ALACENA pechuga de pavo en finas lonchas envase 2 x 200 gr,3.39,8.48,kg,http://dbpedia.org/resource/Pavo_(constellation)
+851,4799,pavo,DIA NUESTRA ALACENA chopped de pavo finas lonchas envase 200 gr,1.55,7.75,kg,http://dbpedia.org/resource/Pavo_(constellation)
+853,4800,pavo,DIA NUESTRA ALACENA mortadela de pavo finas lonchas envase 200 gr,1.59,7.95,kg,http://dbpedia.org/resource/Pavo_(constellation)
+855,4802,pavo,DIA NUESTRA ALACENA pechuga de pavo mini 0% pieza 500 gr,3.25,6.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1634,3044,pavo,DIA NUESTRA ALACENA pechuga de pavo mini bajo en sal pieza 500 gr,3.55,7.1,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1639,3082,pavo,ELPOZO Bienstar pechuga de pavo en finas lonchas bajo en sal sobre 85 gr,1.0,13.33,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1653,4761,pavo,DIA NUESTRA ALACENA pechuga de pavo bajo en sal finas lonchas envase 200 gr,1.95,9.75,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1656,4785,pavo,ELPOZO pechuga pavo bajo en sal family sobre 2 x 200 gr,3.95,9.88,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1864,60,pavo,"Bocaditos en salsa gato adulto Delikuit con pollo, pavo y verduras",0.6,1.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1865,61,pavo,Paté gato júnior Delikuit con pollo y pavo,0.6,6.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1866,63,pavo,Paté gato adulto Delikuit con pollo y pavo,1.25,3.125,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1867,66,pavo,Bocaditos en gelatina gato júnior Delikuit con pollo y pavo,2.5,3.125,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1868,83,pavo,Snack gato barritas Compy de pato y pavo,1.2,24.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1871,546,pavo,"Trozos en salsa perro adulto Delikuit con ternera, pavo y verduras",0.85,2.834,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1872,926,pavo,Solomillo de pavo marinado congelado,2.76,7.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1873,937,pavo,Jamoncitos de pavo duplo congelados,3.35,5.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1875,950,pavo,Burger de pavo y espinacas,2.15,8.959,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1877,959,pavo,Preparado de carne picada pollo y pavo,3.5,7.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1878,962,pavo,Nuggets de pavo Hacendado ultracongelados,3.2,8.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1879,1322,pavo,Filetes pechuga de pavo Procavi corte fino,5.64,9.89,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1881,1323,pavo,Tacos de pavo,4.74,7.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1882,1324,pavo,Filetes de pavo contramuslo Procavi,3.95,7.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1883,1353,pavo,Filetes pechuga de pavo,5.19,8.65,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1884,1354,pavo,Chuletas de pavo contramuslo,5.49,7.23,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1885,1355,pavo,Solomillo de pavo,4.74,7.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1886,1358,pavo,Medallones solomillo de pavo Procavi,3.29,10.98,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1887,1409,pavo,Salchichas cocidas Hacendado de pollo y pavo sabor ahumado,1.25,3.125,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1888,1412,pavo,Salchichas cocidas bocata Hacendado de pollo y pavo sabor ahumado,1.6,4.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1890,1439,pavo,"Salchichas cocidas con leche Campofrío de pollo, cerdo y pavo",0.95,5.589,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1891,1441,pavo,Salchichas cocidas Hacendado pollo y pavo con queso,1.7,4.25,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1892,2066,pavo,Burger de pavo y pollo,3.62,6.704,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1894,2075,pavo,Preparado de carne picada pollo y pavo,5.9,5.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1896,2087,pavo,Fiambre de pechuga de pavo adobada,3.38,9.136,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1898,2093,pavo,Chuletas de pavo al ajillo,4.19,6.99,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1899,2094,pavo,Brochetas de pavo,4.2,8.4,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1900,2095,pavo,Pechugas de pavo pimentón,4.93,8.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1902,2098,pavo,Tacos de pavo al ajillo,3.72,6.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1903,2173,pavo,Pechuga de pavo bajo en sal Hacendado finas lonchas,3.15,7.875,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1906,2174,pavo,Pechuga de pavo Hacendado finas lonchas,3.15,7.875,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1909,2175,pavo,Salchichón de pavo Hacendado lonchas,2.58,17.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1910,2176,pavo,Lomo de pavo Hacendado lonchas,2.54,25.4,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1911,2178,pavo,Dados de pavo Hacendado,2.05,10.25,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1912,2180,pavo,Mortadela de pavo Hacendado finas lonchas,1.08,7.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1914,2183,pavo,Pechuga de pavo Noel lonchas muy finas,1.98,9.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1917,2184,pavo,Jamón de pavo Hacendado,2.37,4.74,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1918,2185,pavo,Pechuga de pavo bajo en sal Hacendado,3.38,6.76,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1920,2563,pavo,Salchichas cocidas solo 3% de grasa Hacendado de pavo sabor ahumado,2.35,5.875,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1922,2575,pavo,Chorizo de pavo Hacendado lonchas,2.55,17.0,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1924,2636,pavo,Crema para untar de pavo Hacendado,1.99,12.438,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1926,3560,pavo,"Paté perro junior Delikuit con pollo, pavo y verduras",1.0,3.334,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1927,3795,pavo,Papilla verduritas con delicias de pavo Hero baby natur +6 meses,1.4,5.958,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1928,4049,pavo,Pechuga de pavo bajo en sal Hacendado finas lonchas,2.09,9.289,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1931,4050,pavo,Pechuga de pavo Hacendado finas lonchas,1.96,9.8,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1933,4051,pavo,Pechuga de pavo 0% m.g Hacendado al corte,1.98,9.9,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1935,4052,pavo,Longaniza de pavo extra Hacendado lonchas,2.61,20.88,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1936,4053,pavo,Jamón de pavo Hacendado finas lonchas,1.55,6.889,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1938,4056,pavo,Pechuga de pavo al horno de leña Campofrío lonchas,1.65,13.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1940,4057,pavo,Pechuga de pavo 0% m.g Hacendado,3.02,6.04,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1941,4058,pavo,Pechuga de pavo natural Noel lonchas,2.3,19.167,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1944,4060,pavo,Longaniza de pavo Imperial extra Hacendado,2.79,11.873,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1946,4062,pavo,Pechuga de pavo pimienta Hacendado finas lonchas,2.45,24.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1949,4063,pavo,Fiambre de pechuga de pavo Sajonia Serrano ahumado natural,3.3,8.919,kg,http://dbpedia.org/resource/Pavo_(constellation)
+1951,4524,pavo,Chorizo de pavo imperial extra Hacendado,2.84,12.086,kg,http://dbpedia.org/resource/Pavo_(constellation)
+2243,4056,pavo,Pechuga de pavo al horno de leña Campofrío lonchas,1.65,13.2,kg,http://dbpedia.org/resource/Pavo_(constellation)
+2294,1439,pavo,"Salchichas cocidas con leche Campofrío de pollo, cerdo y pavo",0.95,5.589,kg,http://dbpedia.org/resource/Pavo_(constellation)
+2388,60,pavo,"Bocaditos en salsa gato adulto Delikuit con pollo, pavo y verduras",0.6,1.5,kg,http://dbpedia.org/resource/Pavo_(constellation)
+2396,546,pavo,"Trozos en salsa perro adulto Delikuit con ternera, pavo y verduras",0.85,2.834,kg,http://dbpedia.org/resource/Pavo_(constellation)
+2450,2173,pavo,Pechuga de pavo bajo en sal Hacendado finas lonchas,3.15,7.875,kg,http://dbpedia.org/resource/Pavo_(constellation)
+2453,2185,pavo,Pechuga de pavo bajo en sal Hacendado,3.38,6.76,kg,http://dbpedia.org/resource/Pavo_(constellation)
+2466,4049,pavo,Pechuga de pavo bajo en sal Hacendado finas lonchas,2.09,9.289,kg,http://dbpedia.org/resource/Pavo_(constellation)
+2470,4063,pavo,Fiambre de pechuga de pavo Sajonia Serrano ahumado natural,3.3,8.919,kg,http://dbpedia.org/resource/Pavo_(constellation)
+856,2850,calamares,ALBO trozos de calamares en salsa americana lata 72 gr,2.59,35.97,kg,http://dbpedia.org/resource/Squid_as_food
+859,4539,calamares,CABO DE PEÑAS calamares en salsa americana pack 3 latas 59 gr,2.25,12.71,kg,http://dbpedia.org/resource/Squid_as_food
+862,4564,calamares,ALBO calamares en su tinta lata 72 gr,2.59,35.97,kg,http://dbpedia.org/resource/Squid_as_food
+1533,2850,calamares,ALBO trozos de calamares en salsa americana lata 72 gr,2.59,35.97,kg,http://dbpedia.org/resource/Squid_as_food
+1566,4539,calamares,CABO DE PEÑAS calamares en salsa americana pack 3 latas 59 gr,2.25,12.71,kg,http://dbpedia.org/resource/Squid_as_food
+221,631,calabaza,Crema de calabaza Carrefour Bio 485 ml,2.3,4.74,l,http://dbpedia.org/resource/Calabaza
+223,659,calabaza,"Semillas de lino, girasol,calabaza, sésamo y bayas de goji molidas ecológicas Linwoods sin gluten 200 g.",4.75,23.75,kg,http://dbpedia.org/resource/Calabaza
+227,1616,calabaza,Pipas de calabaza crudas peladas ecológicas Carrefour Bio doy pack 125 g.,1.94,15.52,kg,http://dbpedia.org/resource/Calabaza
+864,21,calabaza,EL MOLINO DE DIA hogaza con pipas de calabaza bolsa 500 gr,2.15,4.3,kg,http://dbpedia.org/resource/Calabaza
+866,1877,calabaza,DIA AL PUNTO crema de calabaza envase 500 ml,1.09,2.18,l,http://dbpedia.org/resource/Calabaza
+868,1907,calabaza,KNORR crema de calabaza envase 500 ml,2.39,4.78,l,http://dbpedia.org/resource/Calabaza
+870,4738,calabaza,Crema de calabaza tarrina 500 ml,2.05,4.1,l,http://dbpedia.org/resource/Calabaza
+871,5114,calabaza,FRIT RAVICH pipas de calabaza peladas bolsa 115 gr,1.89,16.43,kg,http://dbpedia.org/resource/Calabaza
+1952,382,calabaza,Media calabaza cacahuete,1.22,1.85,kg,http://dbpedia.org/resource/Calabaza
+1953,1269,calabaza,Pipas calabaza natural Hacendado peladas,1.7,11.334,kg,http://dbpedia.org/resource/Calabaza
+1954,1277,calabaza,Pipas calabaza tostadas Hacendado aguasal,1.6,12.8,kg,http://dbpedia.org/resource/Calabaza
+1956,1282,calabaza,"Combinado frutos secos, frutas desecadas y semillas de calabaza Hacendado",2.2,14.667,kg,http://dbpedia.org/resource/Calabaza
+1958,3624,calabaza,Pan de molde semillas y pipas de calabaza Hacendado,1.8,3.104,kg,http://dbpedia.org/resource/Calabaza
+1960,4202,calabaza,Crema de calabaza y zanahoria Hacendado,1.7,4.858,kg,http://dbpedia.org/resource/Calabaza
+1962,4236,calabaza,Crema de calabaza Hacendado,0.95,1.9,l,http://dbpedia.org/resource/Calabaza
+1963,4322,calabaza,Medialunas frescas calabaza y crema de quesos Bel Canto,2.35,9.4,kg,http://dbpedia.org/resource/Calabaza
+532,994,chorizo,DIA AL PUNTO tortilla de patatas fresca con chorizo envase 600 gr,3.55,5.92,kg,http://dbpedia.org/resource/Chorizo
+534,999,chorizo,DIA AL PUNTO lentejas con chorizo lata 430 gr,1.05,2.53,kg,http://dbpedia.org/resource/Chorizo
+536,1029,chorizo,REVILLA taquitos de chorizo envase 65 gr,1.0,15.38,kg,http://dbpedia.org/resource/Chorizo
+537,1030,chorizo,REVILLA chorizo tradición en lonchas sobre 65 gr,1.0,15.38,kg,http://dbpedia.org/resource/Chorizo
+538,1035,chorizo,FLORENCIO GOMEZ chorizo ibérico de bellota en lonchas sobre (peso aprox. 200 gr),3.58,17.89,kg,http://dbpedia.org/resource/Chorizo
+541,1037,chorizo,EZEQUIEL chorizo extra dulce envase 425 gr,6.35,14.94,kg,http://dbpedia.org/resource/Chorizo
+542,1041,chorizo,EZEQUIEL chorizo dulce pieza 425 gr,6.29,14.8,kg,http://dbpedia.org/resource/Chorizo
+543,1046,chorizo,DIA NUESTRA ALACENA chorizo extra dulce sarta pieza 270 gr,1.99,7.37,kg,http://dbpedia.org/resource/Chorizo
+545,1049,chorizo,DIA NUESTRA ALACENA chorizo extra en lonchas pack 2 x 100 gr,1.55,7.75,kg,http://dbpedia.org/resource/Chorizo
+546,1050,chorizo,DIA NUESTRA ALACENA chorizo y salchichón extra envase 2 x 100 gr,2.09,10.45,kg,http://dbpedia.org/resource/Chorizo
+549,1056,chorizo,DIA NUESTRA ALACENA chorizo de pavo en lonchas envase 2 x 75 gr,2.75,18.33,kg,http://dbpedia.org/resource/Chorizo
+551,1067,chorizo,EZEQUIEL chorizo extra picante pieza 425 gr,6.35,14.94,kg,http://dbpedia.org/resource/Chorizo
+552,1071,chorizo,EZEQUIEL chorizo picante pieza 425 gr,6.29,14.8,kg,http://dbpedia.org/resource/Chorizo
+553,1072,chorizo,NAVIDUL chorizo ibérico lonchas sobre 100 gr,2.59,25.9,kg,http://dbpedia.org/resource/Chorizo
+554,1076,chorizo,DIA NUESTRA ALACENA chorizo extra picante sarta pieza 270 gr,1.99,7.37,kg,http://dbpedia.org/resource/Chorizo
+556,1081,chorizo,DIA NUESTRA ALACENA chorizo cular ibérico extra pieza 380 gr,4.99,13.13,kg,http://dbpedia.org/resource/Chorizo
+557,1091,chorizo,DIA NUESTRA ALACENA chorizo de León dulce en lonchas envase 100 gr,1.85,18.5,kg,http://dbpedia.org/resource/Chorizo
+559,1092,chorizo,DIA NUESTRA ALACENA chorizo de León picante pieza 320 gr,3.95,12.34,kg,http://dbpedia.org/resource/Chorizo
+561,1093,chorizo,DIA NUESTRA ALACENA chorizo ibérico en lonchas pack 2 x 60 gr,1.99,16.58,kg,http://dbpedia.org/resource/Chorizo
+562,1123,chorizo,DIA NUESTRA ALACENA chorizo de León dulce pieza 320 gr,3.95,12.34,kg,http://dbpedia.org/resource/Chorizo
+564,1124,chorizo,DIA NUESTRA ALACENA chorizo de León picante en lonchas envase 100 gr,1.85,18.5,kg,http://dbpedia.org/resource/Chorizo
+567,1510,chorizo,DIA AL PUNTO macarrones con chorizo bandeja 250 gr,2.29,9.16,kg,http://dbpedia.org/resource/Chorizo
+568,2553,chorizo,PALACIOS chorizo sarta pieza 250 gr,3.69,14.76,kg,http://dbpedia.org/resource/Chorizo
+570,2555,chorizo,MANUEL DE MONTEJO chorizo ibérico sobre 90 gr,2.39,26.56,kg,http://dbpedia.org/resource/Chorizo
+571,3000,chorizo,PAMPLONICA callos gourmet con chorizo y pimiento caja 380 gr,4.55,11.97,kg,http://dbpedia.org/resource/Chorizo
+574,3001,chorizo,VALDETERRA migas con chorizo envase 275 gr,1.97,7.16,kg,http://dbpedia.org/resource/Chorizo
+575,3038,chorizo,SELECCIÓN DE DIA chorizo oreado bandeja 300 gr,2.19,7.3,kg,http://dbpedia.org/resource/Chorizo
+577,4571,chorizo,DIA AL PUNTO callos con chorizo lata 380 gr,2.65,6.97,kg,http://dbpedia.org/resource/Chorizo
+786,1056,chorizo,DIA NUESTRA ALACENA chorizo de pavo en lonchas envase 2 x 75 gr,2.75,18.33,kg,http://dbpedia.org/resource/Chorizo
+1705,1809,chorizo,Tortilla de patata con chorizo Hacendado,3.2,5.334,kg,http://dbpedia.org/resource/Chorizo
+1706,2576,chorizo,Taquitos de chorizo Revilla,2.44,12.2,kg,http://dbpedia.org/resource/Chorizo
+1708,2580,chorizo,Mini chorizo ibérico extra La Hacienda del ibérico,2.3,11.5,kg,http://dbpedia.org/resource/Chorizo
+1710,4582,chorizo,Pizza chorizo Hacendado ultracongelada,2.25,5.922,kg,http://dbpedia.org/resource/Chorizo
+2215,89,Bacalao,Bacalao ahumado Hacendado en aceite de girasol,3.1,38.75,kg,http://dbpedia.org/resource/Bacalao
+2216,2988,Bacalao,Bacalao estilo pil pil,3.75,16.305,kg,http://dbpedia.org/resource/Bacalao
+2219,3001,Bacalao,Bacalao al punto de sal,7.48,14.95,kg,http://dbpedia.org/resource/Bacalao
+2222,3527,Bacalao,Bacalao a rodajas,15.29,6.95,kg,http://dbpedia.org/resource/Bacalao
+2223,3528,Bacalao,Bacalao abierto en libro sin cabeza y sin espina,15.29,6.95,kg,http://dbpedia.org/resource/Bacalao
+2226,3595,Bacalao,Bacalao media pieza a rodajas,4.24,6.95,kg,http://dbpedia.org/resource/Bacalao
+2227,3596,Bacalao,Bacalao media pieza abierto en libro sin cabeza y sin espina,4.24,6.95,kg,http://dbpedia.org/resource/Bacalao
+1665,2865,Ensalada,Ensalada mezcla gourmet,1.06,6.058,kg,http://dbpedia.org/resource/Ensalada_(music)
+1666,2867,Ensalada,Ensalada mezcla brotes tiernos maxi,1.75,10.0,kg,http://dbpedia.org/resource/Ensalada_(music)
+1667,2868,Ensalada,Ensalada mezcla tierna,1.25,8.334,kg,http://dbpedia.org/resource/Ensalada_(music)
+1668,2870,Ensalada,Ensalada mezcla dúo canónigos y rúcula,1.35,13.5,kg,http://dbpedia.org/resource/Ensalada_(music)
+1669,2874,Ensalada,Ensalada California,2.29,11.928,kg,http://dbpedia.org/resource/Ensalada_(music)
+1671,2875,Ensalada,Ensalada de la casa,1.99,4.975,kg,http://dbpedia.org/resource/Ensalada_(music)
+1672,2876,Ensalada,Ensalada ensatún,2.49,9.96,kg,http://dbpedia.org/resource/Ensalada_(music)
+1673,2877,Ensalada,Ensalada de pasta,2.49,9.96,kg,http://dbpedia.org/resource/Ensalada_(music)
+1675,2892,Ensalada,Ensalada mezcla 4 estaciones,0.79,3.16,kg,http://dbpedia.org/resource/Ensalada_(music)
+1676,2893,Ensalada,Ensalada mezcla brotes tiernos,1.25,12.5,kg,http://dbpedia.org/resource/Ensalada_(music)
+1677,2897,Ensalada,Ensalada mezcla gourmet maxi,1.73,5.767,kg,http://dbpedia.org/resource/Ensalada_(music)
+1678,2899,Ensalada,Ensalada mezcla primavera,1.0,5.0,kg,http://dbpedia.org/resource/Ensalada_(music)
+1679,2900,Ensalada,Ensalada mezcla fresca,1.15,5.75,kg,http://dbpedia.org/resource/Ensalada_(music)
+1681,2903,Ensalada,Ensalada César,2.29,10.905,kg,http://dbpedia.org/resource/Ensalada_(music)
+1682,2905,Ensalada,Ensalada mil islas,2.55,7.728,kg,http://dbpedia.org/resource/Ensalada_(music)
+1683,2906,Ensalada,Ensalada jamón,2.49,11.582,kg,http://dbpedia.org/resource/Ensalada_(music)
+1684,2907,Ensalada,Ensalada queso de cabra,2.79,20.667,kg,http://dbpedia.org/resource/Ensalada_(music)
+1686,4606,Ensalada,Ensalada de pimientos del piquillo Cidacos,1.8,5.0,kg,http://dbpedia.org/resource/Ensalada_(music)
+1688,4633,Ensalada,Ensalada china Hacendado con mazorquitas,1.4,5.6,kg,http://dbpedia.org/resource/Ensalada_(music)
+394,628,curry,Wok de tallarines con pollo al curry Carrefour 300 g,3.25,3.25,ud,http://dbpedia.org/resource/Curry
+1384,1474,curry,MAGGI fideos fusian India curry sobre 118 gr,1.69,14.32,kg,http://dbpedia.org/resource/Curry
+1385,2914,curry,DIA VEGECAMPO curry en polvo bote 42 gr,0.85,20.24,kg,http://dbpedia.org/resource/Curry
+2232,643,curry,"Croquetas Caprichos Thai Hacendado de coliflor, leche de coco y curry",3.0,13.334,kg,http://dbpedia.org/resource/Curry
+2233,1792,curry,Pollo al curry Hacendado con arroz basmati,2.85,10.179,kg,http://dbpedia.org/resource/Curry
+2235,3010,curry,Salmón al curry Hacendado,5.5,16.924,kg,http://dbpedia.org/resource/Curry
+2236,3011,curry,Salmón al curry con arroz,3.5,12.728,kg,http://dbpedia.org/resource/Curry
+388,518,Bacalao,Bacalao desalado desmigado procedente de pesca sostenible Carrefour 250 g.,3.99,15.96,kg,http://dbpedia.org/resource/Bacalhau
+390,519,Bacalao,Bacalao dorado Marvanejo sin gluten 240 g.,2.99,12.46,kg,http://dbpedia.org/resource/Bacalhau
